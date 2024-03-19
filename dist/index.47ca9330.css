@@ -1,54 +1,49 @@
-section {
-  text-align: center;
-  width: 385px;
-  height: 720px;
-}
-
-#Splash {
-  background: #7cfc00;
-}
-
-#Iniciarsesion {
-  background: #00bfff;
-}
-
-#Registrarse {
-  background: #ffdead;
-}
-
 #Home {
-  background: #ff4500;
+  background: #d3d3d3;
+  width: 310px;
+  height: 650px;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
 }
 
-#Menu {
-  background: #ff1493;
+.n_item {
+  position: absolute;
 }
 
-#Menusininciarsesion {
-  background: violet;
+.Logo {
+  width: 190px;
+  height: 30px;
+  top: 25px;
+  left: 61px;
 }
 
-#Producto {
-  background: #adff2f;
+.Buscador {
+  z-index: 1;
+  width: 23px;
+  height: 23px;
+  top: 70px;
+  left: 222px;
 }
 
-#Carrito {
-  background: #ff0;
+.Buscador2 {
+  width: 182px;
+  height: 16px;
+  top: 70px;
+  left: 60px;
 }
 
-#Confirmacionpago {
-  background: #eee8aa;
+.Carrito {
+  width: 25px;
+  height: 25px;
+  top: 68px;
+  left: 271px;
 }
 
-#Pagorechazado {
-  background: #639;
-}
-
-#Noticia {
-  background: bisque;
-}
-
-#Categoria {
-  background: #d2691e;
+.Barras {
+  width: 25px;
+  height: 25px;
+  top: 72px;
+  left: 15px;
 }
 /*# sourceMappingURL=index.47ca9330.css.map */
