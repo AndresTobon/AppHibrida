@@ -1,94 +1,87 @@
-#Noticia{
-    position:relative;
-    width: 310px;
-    height: 650px;
-    background:url();
-    /*opacity:.5;*/
-    margin-left:auto;
-    margin-right:auto;
-    /*transform:scale(.9);*/
-  }
-  #fondo{
-    position:absolute;
-    top:0;
-    left:0;
-    z-index:-1;
-    opacity:.5;
-    }
-   .n_item{
-    position:absolute;
-  }
-  .Logo{
-    top:25px;
-    left:86px;
-    width:190px;
-    height:30px;
-  }
-  .Buscador{
-    top:70px;
-    left:247px;
-    width:23px;
-    height:23px;
-    z-index:1;
-  }
-  .Buscador2{
-    top:70px;
-    left:85px;
-    width:182px;
-    height:16px;
-  }
-  .Carrito{
-    top:68px;
-    left:296px;
-    width:25px;
-    height:25px;
-  }
-  .Barras{
-    top:72px;
-    left:39px;
-    width:25px;
-    height:25px;
-  }
-  .n_t1{
-   left:50px;
-    bottom:467px;
-    }
-  .n_t2{
-   left:57px;
-    bottom:340px;
-    }
-  .Imagen{
-    top:291px;
-    left:60px;
-    width:113px;
-    height:170px;
-  }
-  .n_t3{
-   left:189px;
-    bottom:161px;
-    }
-  .n_t4{
-   left:60px;
-    bottom:-17px;
-    }
-  .Imagen2{
-    top:673px;
-    left:188px;
-    width:115px;
-    height:160px;
-  }
-  .n_t5{
-   left:60px;
-    bottom:-219px;
-    }
-  .n_t6{
-   left:60px;
-    bottom:-360px;
-    }
-  .n_boton{
-    bottom:-338px;
-    left:250px;
-    width:66px;
-    height:21px;
-    border-radius:8px;
-  }
+#Noticia {
+  position: relative;
+  width: 310px;
+  height: 650px;
+  background: url();
+  /*opacity:.5;*/
+  margin-left: auto;
+  margin-right: auto;
+  /*transform:scale(.9);*/
+}
+.n_item {
+  position: absolute;
+}
+.Logo {
+  top: 25px;
+  left: 86px;
+  width: 190px;
+  height: 30px;
+}
+.Buscador {
+  top: 70px;
+  left: 247px;
+  width: 23px;
+  height: 23px;
+  z-index: 1;
+}
+.Buscador2 {
+  top: 70px;
+  left: 85px;
+  width: 182px;
+  height: 16px;
+}
+.Carrito {
+  top: 68px;
+  left: 296px;
+  width: 25px;
+  height: 25px;
+}
+.Barras {
+  top: 72px;
+  left: 39px;
+  width: 25px;
+  height: 25px;
+}
+.n_t1 {
+  left: 50px;
+  bottom: 467px;
+}
+.n_t2 {
+  left: 57px;
+  bottom: 340px;
+}
+.Imagen {
+  top: 291px;
+  left: 60px;
+  width: 113px;
+  height: 170px;
+}
+.n_t3 {
+  left: 189px;
+  bottom: 161px;
+}
+.n_t4 {
+  left: 60px;
+  bottom: -17px;
+}
+.Imagen2 {
+  top: 673px;
+  left: 188px;
+  width: 115px;
+  height: 160px;
+}
+.n_t5 {
+  left: 60px;
+  bottom: -219px;
+}
+.n_t6 {
+  left: 60px;
+  bottom: -360px;
+}
+.n_boton {
+  bottom: -338px;
+  left: 250px;
+  width: 66px;
+  height: 21px;
+  border-radius: 8px;
+}
