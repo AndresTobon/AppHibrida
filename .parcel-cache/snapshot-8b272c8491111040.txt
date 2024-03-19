@@ -13,7 +13,7 @@
 96C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\htmlnano\docs\docusaurus.config.js133553392199363866 0
 67C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\chalk133553392191360649 1
 92C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\csso\node_modules\mdn-data\css133553392198098095 1
-64C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\dist\index.html133553433832715484 0
+64C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\dist\index.html133553531345432387 0
 84C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\css-tree\cjs\tokenizer133553392194460297 1
 128C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\cleanupIDs.js133553392158962322 0
 93C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\caniuse-lite\data\regions\SZ.js133553392191101497 0
@@ -25,7 +25,7 @@
 59C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\.gitignore133553392154349096 0
 118C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\css-select\node_modules\entities\lib\esm\decode.d.ts.map133553392193035051 0
 101C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\@swc\helpers\_\_iterable_to_array_limit133553392185131468 1
-53C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\dist133553439242137359 1
+53C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\dist133553531345452288 1
 96C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\type-fest\ts41\delimiter-case.d.ts133553392208084697 0
 76C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\@parcel\events133553392157078624 1
 92C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\css-tree\lib\definition-syntax133553392194829061 1
@@ -54,7 +54,7 @@
 108C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\caniuse-lite\data\features\css-mixblendmode.js133553392187772649 0
 81C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\@swc\helpers\_\_jsx133553392185151408 1
 101C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\type-fest\source\async-return-type.d.ts133553392207925248 0
-72C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\dist\index.47ca9330.css133553439242057394 0
+72C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\dist\index.47ca9330.css133553529762730306 0
 90C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\posthtml-parser\package.json133553392205722605 0
 106C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\@parcel\workers\src\threads\ThreadsWorker.js133553392180464220 0
 66C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\@swc133553392186536762 1
@@ -69,7 +69,7 @@
 111C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\caniuse-lite\data\features\link-rel-preconnect.js133553392188649734 0
 107C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\@babel\code-frame\node_modules\supports-color133553392155036624 1
 81C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\get-port\index.d.ts133553392199154814 0
-59C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\index.html133553433736953925 0
+59C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\index.html133553531292826069 0
 51C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\js133553392154657899 1
 94C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\css-select\lib\attributes.js.map133553392191749335 0
 106C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\caniuse-lite\data\features\input-datetime.js133553392188380604 0
@@ -1053,7 +1053,7 @@
 111C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\caniuse-lite\data\features\requestidlecallback.js133553392189038452 0
 97C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\svgo\plugins\convertStyleToAttrs.js133553392207476720 0
 90C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\css-tree\lib\utils\string.js133553392195576530 0
-76C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\dist\AppHibrida.3464ddca.js133553433689816628 0
+76C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\dist\AppHibrida.3464ddca.js133553502021544787 0
 142C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\pseudo\common\nth.js133553392158224784 0
 136C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\WhiteSpace.js133553392159749683 0
 89C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\regenerator-runtime\LICENSE133553392205971763 0
@@ -1272,7 +1272,7 @@
 119C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Combinator.cjs133553392196892130 0
 80C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\lmdb\src\windows.c133553392203918637 0
 94C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\@swc\helpers\_\_jsx\package.json133553392185151408 0
-73C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\dist\carrito.9fc0a79c.js133553433688695256 0
+73C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\dist\carrito.9fc0a79c.js133553502020607853 0
 110C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\@parcel\core\test\fixtures\common-targets-ignore133553392156739748 1
 82C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\stable\stable.min.js133553392207217612 0
 99C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\source-map\dist\source-map.min.js.map133553392207088023 0
@@ -2968,7 +2968,7 @@
 94C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\@parcel\source-map\dist\types.js133553392178576507 0
 89C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\css-tree\lib\lexer\units.js133553392195008879 0
 112C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\csso\node_modules\css-tree\lib\syntax\node\Hash.js133553392197719367 0
-72C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\dist\index.7abba0a1.css133553433689255058 0
+72C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\dist\index.7abba0a1.css133553502020966686 0
 107C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\@babel\highlight\node_modules\chalk\readme.md133553392155166195 0
 135C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\pseudo\matches.js133553392159779591 0
 93C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\caniuse-lite\data\regions\AZ.js133553392190104854 0
@@ -3166,7 +3166,7 @@
 105C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\csso\lib\restructure\4-restructShorthand.js133553392196363908 0
 108C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\@swc\helpers\cjs\_class_private_method_get.cjs133553392185440431 0
 91C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\csso\lib\restructure\utils.js133553392196433667 0
-61C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\css\main.css133553439241737562 0
+61C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\css\main.css133553529901584956 0
 99C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\csso\lib\restructure\prepare\index.js133553392196413752 0
 85C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\csso\lib\replace\atrule133553392196214398 1
 92C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\@parcel\core\src\AssetGraph.js133553392156390916 0
@@ -5446,7 +5446,7 @@
 133C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\common\adopt-buffer.js133553392159430764 0
 122C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\dist\csstree.js133553392159390892 0
 126C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\dist\csstree.min.js133553392159410824 0
-71C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\dist\menu.83c6251c.css133553433689255058 0
+71C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\dist\menu.83c6251c.css133553502020966686 0
 120C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\data\index.js133553392159361001 0
 101C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\@babel\code-frame\node_modules\has-flag133553392155016703 1
 108C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\@babel\highlight\node_modules\has-flag\license133553392155255890 0
@@ -5635,7 +5635,7 @@
 136C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\Number.js133553392158105194 0
 138C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\Operator.js133553392158105194 0
 140C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\Percentage.js133553392158115163 0
-63C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\dist\menu.html133553433689175031 0
+63C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\dist\menu.html133553502021146059 0
 151C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\PseudoElementSelector.js133553392158125133 0
 133C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\Raw.js133553392158135098 0
 134C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\Rule.js133553392158145057 0
@@ -5937,7 +5937,7 @@
 92C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\@lezer\common\dist\index.d.cts133553392155315700 0
 89C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\@lezer\common\dist\index.js133553392155335627 0
 79C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\@babel\code-frame133553392155036624 1
-74C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\dist\menu.b21d5a73.js.map133553433689816628 0
+74C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\dist\menu.b21d5a73.js.map133553502021574627 0
 96C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\@babel\helper-validator-identifier133553392155096422 1
 78C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\@babel\highlight133553392155285795 1
 86C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\@babel\highlight\LICENSE133553392155106394 0
@@ -6015,18 +6015,18 @@
 93C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\.bin\update-browserslist-db.cmd133553392154827562 0
 93C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\node_modules\.bin\update-browserslist-db.ps1133553392154837295 0
 59C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\js\main.js133553392154657899 0
-80C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\dist\AppHibrida.3464ddca.js.map133553433689816628 0
+80C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\dist\AppHibrida.3464ddca.js.map133553502021584600 0
 77C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\dist\AppHibrida_.3464ddca.js133553392154588124 0
 81C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\dist\AppHibrida_.3464ddca.js.map133553392154598093 0
-77C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\dist\carrito.9fc0a79c.js.map133553433688775207 0
-66C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\dist\carrito.html133553433690056539 0
-76C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\dist\index.7abba0a1.css.map133553433689255058 0
-75C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\dist\menu.83c6251c.css.map133553433689255058 0
-70C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\dist\menu.b21d5a73.js133553433689816628 0
+77C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\dist\carrito.9fc0a79c.js.map133553502020657708 0
+66C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\dist\carrito.html133553502021783942 0
+76C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\dist\index.47ca9330.css.map133553529762780140 0
+76C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\dist\index.7abba0a1.css.map133553502021006529 0
+75C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\dist\menu.83c6251c.css.map133553502021006529 0
+70C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\dist\menu.b21d5a73.js133553502021544787 0
 66C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\css\confipago.css133553392154558227 0
 62C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\css\main.scss133553392154568190 0
 61C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\css\menu.css133553392154568190 0
 67C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\css\menusinlog.css133553392154578163 0
 64C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\css\noticia.css133553392154578163 0
 68C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\css\_generales.scss133553392154558227 0
-76C:\Users\CAMILO\Documents\apphibrida2\AppHibrida\dist\index.47ca9330.css.map133553439242137359 0
