@@ -1,48 +1,41 @@
-#Registrarse{
-    position:relative;
-    width: 310px;
-    height: 650px;
-    background:url();
-    /*opacity:.5;*/
-    margin-left:auto;
-    margin-right:auto;
-    /*transform:scale(.9);*/
-  }
-  #fondo{
-    position:absolute;
-    top:0;
-    left:0;
-    z-index:-1;
-    opacity:.5;
-  }
-  .Salir{
-    position:absolute;
-    bottom:580px;
-    left:295px;
-    }
-   .Linea{
-    position:absolute;
-    bottom:370px;
-    left:-20px;
-    }
-  .n_item{
-    position:absolute;
-  }
-  .Facebook{
-    top:20px;
-    left:20px;
-    width:32px;
-    height:32px;
-  }
-  .X{
-    top:20px;
-    left:20px;
-    width:32px;
-    height:32px;
-  }
-  .Instagram{
-    top:20px;
-    left:20px;
-    width:32px;
-    height:32px;
-  }
+#Registrarse {
+  position: relative;
+  width: 310px;
+  height: 650px;
+  background: url();
+  /*opacity:.5;*/
+  margin-left: auto;
+  margin-right: auto;
+  /*transform:scale(.9);*/
+}
+.Salir {
+  position: absolute;
+  bottom: 580px;
+  left: 295px;
+}
+.Linea {
+  position: absolute;
+  bottom: 370px;
+  left: -20px;
+}
+.n_item {
+  position: absolute;
+}
+.Facebook {
+  top: 20px;
+  left: 20px;
+  width: 32px;
+  height: 32px;
+}
+.X {
+  top: 20px;
+  left: 20px;
+  width: 32px;
+  height: 32px;
+}
+.Instagram {
+  top: 20px;
+  left: 20px;
+  width: 32px;
+  height: 32px;
+}
