@@ -1,0 +1,10 @@
+//variables en scss
+:root{
+    --main-color: red;
+    --main-bg-color:black;
+}
+body{
+    background-color: var(--main-bg-color);
+}
+
+@import "generales";

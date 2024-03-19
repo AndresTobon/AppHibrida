@@ -1,0 +1,54 @@
+section {
+  text-align: center;
+  width: 385px;
+  height: 720px;
+}
+
+#Splash {
+  background: #7cfc00;
+}
+
+#Iniciarsesion {
+  background: #00bfff;
+}
+
+#Registrarse {
+  background: #ffdead;
+}
+
+#Home {
+  background: #ff4500;
+}
+
+#Menu {
+  background: #ff1493;
+}
+
+#Menusininciarsesion {
+  background: violet;
+}
+
+#Producto {
+  background: #adff2f;
+}
+
+#Carrito {
+  background: #ff0;
+}
+
+#Confirmacionpago {
+  background: #eee8aa;
+}
+
+#Pagorechazado {
+  background: #639;
+}
+
+#Noticia {
+  background: bisque;
+}
+
+#Categoria {
+  background: #d2691e;
+}
+/*# sourceMappingURL=index.47ca9330.css.map */

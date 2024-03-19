@@ -1,0 +1,41 @@
+section{
+    width: 385px;
+    height: 720px;
+    text-align: center;
+}
+#Splash{
+    background: lawngreen;  
+}
+#Iniciarsesion{
+    background: deepskyblue;
+}
+#Registrarse{
+    background: navajowhite;
+}
+#Home{
+    background: orangered;
+}
+#Menu{
+    background: deeppink;
+}
+#Menusininciarsesion{
+    background: violet;
+}
+#Producto{
+    background: greenyellow;
+}
+#Carrito{
+    background: yellow;
+}
+#Confirmacionpago{
+    background: palegoldenrod;
+}
+#Pagorechazado{
+    background: rebeccapurple;
+}
+#Noticia{
+    background: bisque;
+}
+#Categoria{
+    background: chocolate;
+}

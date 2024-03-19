@@ -1,0 +1,1 @@
+{"mappings":"AACA;;;;;AAIA","sources":["css/main.scss"],"sourcesContent":["//variables en scss\r\n:root{\r\n    --main-color: red;\r\n    --main-bg-color:black;\r\n}\r\nbody{\r\n    background-color: var(--main-bg-color);\r\n}\r\n\r\n@import \"generales\";"],"names":[],"version":3,"file":"index.7abba0a1.css.map","sourceRoot":"/__parcel_source_root/"}
