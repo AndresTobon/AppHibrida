@@ -48,7 +48,6 @@
 }
 
 .parent {
-  background-color: #fff;
   border: 2px solid red;
   gap: 0;
   width: 310px;
@@ -80,30 +79,46 @@
 }
 
 .botones {
-  border: 3px solid #8a2be2;
-  width: min-content;
-  height: min-content;
+  color: #333;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  border-radius: 2px;
+  flex-direction: column;
+  width: 120px;
+  height: 100px;
+  margin-top: -200px;
+  margin-left: -200px;
+  font-family: Open Sans, Helvetica, sans-serif;
+  display: flex;
+  position: relative;
+  top: 85%;
+  left: 50%;
+  overflow: hidden;
+  box-shadow: 4px 8px 16px #0000001a;
 }
 
 .center {
-  position: absolute;
+  position: relative;
   top: 50%;
-  left: 50%;
+  left: 60%;
   transform: translate(-50%, -50%);
 }
 
 .container {
-  background: #ffdc00;
-  border: 4px solid #404040;
-  border-radius: 10rem;
+  background: gray;
+  border: 2px solid #404040;
+  border-radius: 5rem;
   place-content: center space-between;
   align-items: center;
-  width: 60%;
-  padding: 1rem;
+  width: 60px;
+  height: 5px;
+  padding: .8rem;
   display: flex;
+  position: absolute;
+  top: 30px;
 }
 
-h1 {
+h4 {
   -webkit-user-select: none;
   user-select: none;
   margin: 0;
@@ -120,7 +135,7 @@ h1 {
 
 .col > button, .number {
   text-align: center;
-  background: #ffdc00;
+  background: gray;
   border: 0;
   width: 100%;
 }
@@ -131,9 +146,21 @@ h1 {
 }
 
 button {
-  color: #ff370c;
+  color: #fff;
   -webkit-user-select: none;
   user-select: none;
   outline: none;
+}
+
+.botonCarrito {
+  background-color: #404040;
+  position: relative;
+  top: 50px;
+}
+
+.descripcionProducto {
+  width: 310px;
+  position: absolute;
+  top: 480px;
 }
 /*# sourceMappingURL=producto.4d35e61c.css.map */

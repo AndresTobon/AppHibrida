@@ -1,0 +1,49 @@
+#Home {
+  background: #d3d3d3;
+  width: 310px;
+  height: 110px;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+}
+
+.n_item {
+  position: absolute;
+}
+
+.Logo {
+  width: 190px;
+  height: 30px;
+  top: 25px;
+  left: 61px;
+}
+
+.Buscador {
+  z-index: 1;
+  width: 23px;
+  height: 23px;
+  top: 70px;
+  left: 222px;
+}
+
+.Buscador2 {
+  width: 182px;
+  height: 16px;
+  top: 70px;
+  left: 60px;
+}
+
+.Carrito {
+  width: 25px;
+  height: 25px;
+  top: 68px;
+  left: 271px;
+}
+
+.Barras {
+  width: 25px;
+  height: 25px;
+  top: 72px;
+  left: 15px;
+}
+/*# sourceMappingURL=carrito.af200b63.css.map */
