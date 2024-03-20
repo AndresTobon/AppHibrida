@@ -58,10 +58,10 @@
   gap: 0px;
   }
   
-  .div1 { grid-area: 1 / 1 / 2 / 3; }
-  .div2 { grid-area: 2 / 1 / 3 / 3; height: 175px ;border:yellow 3px solid; margin: 0; padding: 0;}
-  .div3 {border: peru 3px solid; grid-area: 3 / 1 / 4 / 2; margin: 0; padding: 0;}
-  .div4 { grid-area: 3 / 2 / 4 / 3;height:300px ;border:blue 3px solid; }
+  .div1 { grid-area: 1 / 1 / 2 / 3; height: min-content; border: #99f solid 3px;}
+  .div2 { grid-area: 2 / 1 / 3 / 3; position: relative; top:-210px; border:yellow 3px solid; margin: 0; padding: 0; height: min-content;}
+  .div3 {position: relative; top:-470px; border: peru 3px solid; grid-area: 3 / 1 / 4 / 2; margin: 0; padding: 0; height: min-content;}
+  .div4 { grid-area: 3 / 2 / 4 / 3;height:300px ;border:blue 3px solid; position: relative; top:-470px;height: min-content; }
   .div5 { grid-area: 4 / 1 / 5 / 3; 
            display: flex;
            border:green 3px solid
@@ -77,12 +77,15 @@
     width: 50%;
   }
 
-.botonLeerMas{
-  position: absolute;
-  left: 330px;
+.bLeerMas{
+  position: relative; 
+  top: 16px;
+  width: fit-content;
+  left: 70px;
+
 }
 .imagenNoticia{
-  position: absolute;
+  position: relative;
   
   height: 240px;
   border: #f99 5px solid;
@@ -376,4 +379,7 @@
   background-color: blue; 
   height: auto;
   padding-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  
 }
