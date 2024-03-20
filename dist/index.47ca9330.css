@@ -96,18 +96,19 @@
   border: 3px solid green;
   grid-area: 4 / 1 / 5 / 3;
   display: flex;
+  position: relative;
+  top: -640px;
 }
 
 .div6 {
-  border: 3px solid green;
-  grid-area: 5 / 1 / 6 / 2;
+  border: 3px solid #0ff;
+  grid-area: 5 / 1 / 6 / 3;
+  height: min-content;
+  position: relative;
+  top: -640px;
 }
 
-.div7 {
-  grid-area: 5 / 2 / 6 / 3;
-}
-
-.div8 {
+.div7, .div8 {
   grid-area: 6 / 1 / 7 / 3;
 }
 
@@ -416,6 +417,7 @@ ol, li {
 .textoNoticia {
   background-color: #00f;
   flex-direction: column;
+  width: 100%;
   height: auto;
   padding-bottom: 20px;
   display: flex;
