@@ -120,6 +120,7 @@
 }
 
 .bLeerMas {
+  border-radius: 20%;
   width: fit-content;
   position: relative;
   top: 16px;

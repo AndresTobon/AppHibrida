@@ -84,8 +84,11 @@
   top: 16px;
   width: fit-content;
   left: 70px;
+  border-radius: 20%;
 
 }
+
+
 .imagenNoticia{
   position: relative;
   
