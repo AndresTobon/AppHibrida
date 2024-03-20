@@ -61,12 +61,22 @@
   .div2 { grid-area: 2 / 1 / 3 / 3; margin-bottom: 0;}
   .div3 {border: #f99 3px solid; grid-area: 3 / 1 / 4 / 2;}
   .div4 { grid-area: 3 / 2 / 4 / 3; }
-  .div5 { grid-area: 4 / 1 / 5 / 3; }
+  .div5 { grid-area: 4 / 1 / 5 / 3; 
+  display: flex; }
   .div6 { grid-area: 5 / 1 / 6 / 2; }
   .div7 { grid-area: 5 / 2 / 6 / 3; }
   .div8 { grid-area: 6 / 1 / 7 / 3; }
+  .noticia{
+    margin: 5%;
+    background-color: aqua;
+    
+    width: 50%;
+  }
 
-
+.botonLeerMas{
+  position: absolute;
+  left: 130px;
+}
   @keyframes tonext {
     75% {
       left: 0;
