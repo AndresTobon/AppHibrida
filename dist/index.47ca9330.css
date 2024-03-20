@@ -94,13 +94,20 @@
 
 .noticia {
   background-color: #0ff;
+  flex-direction: row;
   width: 50%;
   margin: 5%;
 }
 
 .botonLeerMas {
   position: absolute;
-  left: 130px;
+  left: 330px;
+}
+
+.imagenNoticia {
+  border: 5px solid #f99;
+  height: 240px;
+  position: absolute;
 }
 
 @keyframes tonext {
@@ -351,5 +358,11 @@ ol, li {
 
 .n_item {
   position: absolute;
+}
+
+.textoNoticia {
+  background-color: #00f;
+  height: auto;
+  padding-bottom: 20px;
 }
 /*# sourceMappingURL=index.47ca9330.css.map */
