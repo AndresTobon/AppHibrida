@@ -110,6 +110,38 @@
   position: absolute;
 }
 
+.productos-recomendados {
+  white-space: nowrap;
+  width: 100%;
+  overflow-x: auto;
+}
+
+.contenedor-productos {
+  white-space: nowrap;
+  display: inline-block;
+}
+
+.producto {
+  text-align: center;
+  background-color: #f2f2f2;
+  border-radius: 5px;
+  width: 200px;
+  height: auto;
+  margin: 10px;
+  display: inline-block;
+}
+
+.nombre {
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+.precio {
+  color: #666;
+  margin-top: 5px;
+  font-size: 14px;
+}
+
 @keyframes tonext {
   75% {
     left: 0;
