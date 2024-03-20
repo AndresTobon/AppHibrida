@@ -75,8 +75,7 @@
 .div3 {
   position: relative;
   top: -470px;
-  border: peru 3px solid;
-  grid-area: 3 / 1 / 4 / 2;
+  grid-area: 1 / 1 / 2 / 3;
   margin: 0;
   padding: 0;
   height: min-content;
@@ -84,7 +83,6 @@
 .div4 {
   grid-area: 3 / 2 / 4 / 3;
   height: 300px;
-  border: blue 3px solid;
   position: relative;
   top: -470px;
   height: min-content;
@@ -179,14 +177,12 @@ body {
   align-items: baseline;
   margin-left: 10px;
   margin-right: 10px;
-  border: #f99 2px solid;
 }
 .categoria {
   display: flex;
   flex-direction: column;
   align-content: space-around;
   justify-content: center;
-  border: blue solid 2px;
 }
 .n_item {
   position: absolute;
