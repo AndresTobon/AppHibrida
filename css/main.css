@@ -58,8 +58,8 @@
   }
   
   .div1 { grid-area: 1 / 1 / 2 / 3; }
-  .div2 { grid-area: 2 / 1 / 3 / 3; }
-  .div3 { grid-area: 3 / 1 / 4 / 2; }
+  .div2 { grid-area: 2 / 1 / 3 / 3; margin-bottom: 0;}
+  .div3 {border: #f99 3px solid; grid-area: 3 / 1 / 4 / 2;}
   .div4 { grid-area: 3 / 2 / 4 / 3; }
   .div5 { grid-area: 4 / 1 / 5 / 3; }
   .div6 { grid-area: 5 / 1 / 6 / 2; }
@@ -302,6 +302,10 @@
   display: flex;
   flex-direction: row;
   justify-content: space-around;
+  align-items: baseline;
+  margin-left: 10px;
+  margin-right: 10px;
+  border: #f99 2px solid;
 }
 .categoria{
 
@@ -309,7 +313,8 @@
   flex-direction: column;
   align-content: space-around; 
   justify-content: center;
-  align-items: center;
+  border: blue solid 2px;
+ 
 }
 .n_item {
   position: absolute;
