@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">apphibrida_tienda</string>
+    <string name="title_activity_main">apphibrida_tienda</string>
+    <string name="package_name">com.apphibridatienda.app</string>
+    <string name="custom_url_scheme">com.apphibridatienda.app</string>
+</resources>
